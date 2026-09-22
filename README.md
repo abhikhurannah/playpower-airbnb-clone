@@ -71,3 +71,4 @@ python3 scripts/package.py
 ```
 
 The ZIP is written to `submission/playpower-final.zip`. See `docs/DEPLOY-VERCEL.md` for deployment and upload instructions.
+# playpower-airbnb-clone
