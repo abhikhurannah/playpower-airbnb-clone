@@ -1,0 +1,10 @@
+node_modules
+.git
+.output
+.vercel/output
+submission
+.wrangler
+.tanstack
+.nitro
+*.log
+.DS_Store
